@@ -1,0 +1,17 @@
+.parent{
+    position: relative;
+}
+.disc{
+    position: absolute;
+    right: 244px;
+    bottom: 318px;
+    z-index: 1;
+}
+@media only screen and (max-width:600px){
+    .disc{
+        position: absolute;
+        right: 30px;
+        bottom: 315px;
+        z-index: 1;
+    }
+}
