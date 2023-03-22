@@ -6,15 +6,15 @@ body{
 }
 .disc{
     position: absolute;
-    right: 244px;
-    bottom: 318px;
+    right: 127px;
+    bottom: 353px;
     z-index: 1;
 }
 @media only screen and (max-width:600px){
     .disc{
         position: absolute;
-        right: 30px;
-        bottom: 315px;
+        right: 80px;
+        bottom: 355px;
         z-index: 1;
     }
 }
