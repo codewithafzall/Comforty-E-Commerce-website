@@ -10,6 +10,11 @@ body{
     bottom: 353px;
     z-index: 1;
 }
+.item{
+    width: 18rem;
+    height: 29rem;
+    margin: 0px 30px;
+}
 @media only screen and (max-width:600px){
     .disc{
         position: absolute;
@@ -18,3 +23,6 @@ body{
         z-index: 1;
     }
 }
+/* <script>
+      AOS.init();
+    </script> */
